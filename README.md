@@ -1,1 +1,1 @@
-# Fractional-Knapsack-Greedy-in-c-
+# Fractional-Knapsack-Greedy-in-c++
